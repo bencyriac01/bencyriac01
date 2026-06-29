@@ -18,7 +18,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=bencyriac01&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=true)<br/>
+
 ![](https://streak-stats.demolab.com/?user=bencyriac01&theme=discord_old_blurple&hide_border=true)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bencyriac01&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🐍 Contribution Snake
