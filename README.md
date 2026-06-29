@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+Guys+;I+am+Ben+Cyriac;Studying+in+MACE" alt="Typing SVG" /></a>
 
 # 💫 About Me:
-🔭 I’m currently working on UI/UX designing<br>🌱 I’m currently learning Figma<br>👯 I’m looking to collaborate on Web Development<br>🤔 I’m looking for help with Java Script<br>💬 Ask me about ...<br><br>😄 Pronouns:...<br>
+🔭 I’m currently working on UI/UX designing<br>🌱 I’m currently learning Figma<br>👯 I’m looking to collaborate on Web Development<br>🤔 I’m looking for help with Java Script<br>💬 Ask me about ...<br>😄 Pronouns:...<br>
 
 
 ## 🌐 Socials:
