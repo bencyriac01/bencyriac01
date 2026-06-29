@@ -14,6 +14,17 @@
 ![](https://streak-stats.demolab.com/?user=bencyriac01&theme=discord_old_blurple&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bencyriac01&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bencyriac01/bencyriac01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+
+
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bencyriac01&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
@@ -27,3 +38,7 @@
 [![](https://komarev.com/ghpvc/?username=bencyriac01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
