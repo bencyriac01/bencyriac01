@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800"
+     height="420"
+     viewBox="0 0 800 420">
+
+  <style>
+    .bg {
+      fill: #0d1117;
+    }
+
+    .title {
+      fill: #58a6ff;
+      font: bold 20px monospace;
+    }
+
+    .text {
+      fill: #58ff9a;
+      font: 16px monospace;
+      white-space: pre;
+    }
+
+    .cursor {
+      fill: white;
+      animation: blink 1s steps(1) infinite;
+    }
+
+    @keyframes blink {
+      50% {
+        opacity: 0;
+      }
+    }
+
+    .line {
+      opacity: 0;
+      animation-fill-mode: forwards;
+    }
+
+    #l1 { animation: show .4s forwards .3s; }
+    #l2 { animation: show .4s forwards 1.2s; }
+    #l3 { animation: show .4s forwards 2.2s; }
+    #l4 { animation: show .4s forwards 3.3s; }
+    #l5 { animation: show .4s forwards 4.5s; }
+    #l6 { animation: show .4s forwards 5.5s; }
+    #l7 { animation: show .4s forwards 6.5s; }
+    #l8 { animation: show .4s forwards 7.5s; }
+
+    @keyframes show {
+      to {
+        opacity: 1;
+      }
+    }
+  </style>
+
+  <rect class="bg" width="100%" height="100%" rx="12"/>
+
+  <text x="25" y="35" class="title">
+🖥 Ben Terminal
+  </text>
+
+  <text x="25" y="70" class="text line" id="l1">
+$ boot profile...
+  </text>
+
+  <text x="25" y="100" class="text line" id="l2">
+Downloading avatar...
+████████████████ 100%
+  </text>
+
+  <text x="25" y="150" class="text line" id="l3">
+Converting image...
+████████████████ 100%
+  </text>
+
+  <text x="25" y="200" class="text line" id="l4">
+Generating ASCII...
+  </text>
+
+  <text x="25" y="235" class="text line" id="l5">
+@@@@@@@@@@@@@@@@@@@@
+  </text>
+
+  <text x="25" y="260" class="text line" id="l6">
+@@@##***++===--::..
+  </text>
+
+  <text x="25" y="285" class="text line" id="l7">
+@@##**++==--::....
+  </text>
+
+  <text x="25" y="310" class="text line" id="l8">
+████ COMPLETE
+  </text>
+
+  <rect class="cursor"
+        x="210"
+        y="295"
+        width="10"
+        height="18"/>
+
+</svg>
